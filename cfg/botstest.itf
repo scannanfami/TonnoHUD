@@ -1,0 +1,11 @@
+"TestItemsBotUpdate"
+{
+	"class_usage"		"64"
+	"auto_add_bots"		"0"
+	"bots_on_blue_team"		"0"
+	"bot_force_fire"		"0"
+	"bot_view_scan"		"1"
+	"bot_turntable"		"1"
+	"bot_anim"		"0"
+	"bot_animspeed"		"79"
+}
